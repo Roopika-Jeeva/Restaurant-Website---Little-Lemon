@@ -1,2 +1,26 @@
-# Restaurant-Website---Little-Lemon
-Little Lemon is a Django web application designed as part of the Meta Backend Developer Professional Certificate. The project implements a restaurant management system where users can browse the menu, make reservations, and place orders. The app is built following best practices in web development using the Django framework.
+# Little Lemon - Django Restaurant Management App
+
+## Project Overview
+
+**Little Lemon** is a restaurant management system built using Django. This project was developed as part of the [Meta Backend Developer Professional Certificate](https://coursera.org/learn/meta-backend-developer-certificate) on Coursera. It showcases the use of Django to build a web-based platform for managing restaurant menus, reservations, and orders. 
+
+## Features
+- **User Authentication**: Users can register, log in, and log out.
+- **Menu Display**: View and filter restaurant menu items.
+- **Admin Interface**: Admins can add, update, and remove menu items and manage reservations.
+- **Form Handling**: Django forms and ModelForms are used for creating and managing reservations.
+- **Database**: Utilizes SQLite as the default database for development.
+  
+## Technologies Used
+- **Django**: Python-based web framework.
+- **HTML** & **CSS**: For frontend design.
+- **Bootstrap**: For responsive design and styling.
+- **SQLite**: Default database for development.
+
+## Setup and Installation
+
+### Prerequisites
+- **Python 3.x** installed on your system.
+- **Django** installed. You can install it using pip:
+  ```bash
+  pip install django
