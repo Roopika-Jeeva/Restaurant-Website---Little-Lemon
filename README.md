@@ -17,10 +17,3 @@
 - **Bootstrap**: For responsive design and styling.
 - **SQLite**: Default database for development.
 
-## Setup and Installation
-
-### Prerequisites
-- **Python 3.x** installed on your system.
-- **Django** installed. You can install it using pip:
-  ```bash
-  pip install django
