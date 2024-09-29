@@ -13,8 +13,11 @@
 - **Form Handling**: Forms and ModelForms used to collect user data, such as reservations.
 - **Database**: The project uses SQLite as the default database for development.
 ![image](https://github.com/user-attachments/assets/1b27d804-8281-4c17-a50c-091e06ebc642)
+
 ![image](https://github.com/user-attachments/assets/11730d55-3f18-4460-a03f-92f55550ed55)
+
 ![image](https://github.com/user-attachments/assets/d527a245-aafc-4ad1-b62b-66e43b9d277b)
+
 ![image](https://github.com/user-attachments/assets/755ccc5c-94cc-46b0-867c-243868398b4e)
 
 
@@ -124,6 +127,3 @@ For major changes, please open an issue first to discuss what you would like to 
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
 
-## Contact
-
-For any inquiries, please contact me at **[your-email@example.com](mailto:your-email@example.com)**.
